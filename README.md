@@ -1,17 +1,8 @@
-# Poznávačka
+# Použití
 
-## Použití
-
-### Nainstalovat Python
-
-#### Windows
-
-https://naucse.python.cz/lessons/beginners/install/windows/
-
-### Složka images/
-
-Vytvořit složku "images" ve stejném souboru jako je poznávačka.py  
-Vložit obrázky do složky images
+- Vytvořit složku "images" ve stejném souboru jako je poznávačka.py  
+- Vložit obrázky do složky images
+- Spustit program
 
 Přiklad obsahu složky:
 ```
@@ -22,7 +13,4 @@ složka
 │   └── example3.jpg
 └── poznávačka.py
 ```
-
-### Spustit program
-
 program uznává jako správnou odpověď text před příponou `.jpg`
